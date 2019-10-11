@@ -1,6 +1,6 @@
 ---
 title: "ESM 206/244 GitHub Testing"
-name: jordan faires
+name: jordan faires 2
 output: html_document
 ---
 
@@ -14,7 +14,7 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 25
+blue <- 22
 
 red <- 2
 
